@@ -1,0 +1,16 @@
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/beastFeast
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/beastFeast.deps.json
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/beastFeast.runtimeconfig.json
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/beastFeast.runtimeconfig.dev.json
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/beastFeast.dll
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/ref/beastFeast.dll
+/home/sean/Documents/CSharp/CodeWars/beastFeast/bin/Debug/net5.0/beastFeast.pdb
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.csproj.AssemblyReference.cache
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.GeneratedMSBuildEditorConfig.editorconfig
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.AssemblyInfoInputs.cache
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.AssemblyInfo.cs
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.csproj.CoreCompileInputs.cache
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.dll
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/ref/beastFeast.dll
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.pdb
+/home/sean/Documents/CSharp/CodeWars/beastFeast/obj/Debug/net5.0/beastFeast.genruntimeconfig.cache

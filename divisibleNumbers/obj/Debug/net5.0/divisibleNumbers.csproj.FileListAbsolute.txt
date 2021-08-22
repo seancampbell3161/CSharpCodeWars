@@ -1,0 +1,16 @@
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/divisibleNumbers
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/divisibleNumbers.deps.json
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/divisibleNumbers.runtimeconfig.json
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/divisibleNumbers.runtimeconfig.dev.json
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/divisibleNumbers.dll
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/ref/divisibleNumbers.dll
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/bin/Debug/net5.0/divisibleNumbers.pdb
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.csproj.AssemblyReference.cache
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.AssemblyInfoInputs.cache
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.AssemblyInfo.cs
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.csproj.CoreCompileInputs.cache
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.dll
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/ref/divisibleNumbers.dll
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.pdb
+/home/sean/Documents/CSharp/CodeWars/divisibleNumbers/obj/Debug/net5.0/divisibleNumbers.genruntimeconfig.cache
